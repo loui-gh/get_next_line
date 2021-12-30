@@ -8,5 +8,3 @@ efficiently, so that you can return only one line per function call with no memo
 The norminette requires that we use no more than 5 functions per .c file, and the project stipulated that we turn in just two .c files.
 I used a lot of my functions from libft and amended ft_strlen to be able to differentiate between EOF and '\n' using a flag.
 
-It took me two months to finish this project. I don't like my code because there are too many lines of code for what the function actually does.
-With the knowledge gained from this project, I hope to code more efficiently next time.
